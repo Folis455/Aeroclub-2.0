@@ -7,6 +7,7 @@ import os
 from dotenv import load_dotenv
 
 # Logger
+
 from app.utils.Logger import Logger
 load_dotenv()
 
